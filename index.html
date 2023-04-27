@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+    content="Protege la privacidad de tus mensajes con nuestro encriptador de texto. Convierte tus mensajes en códigos secretos compatibles con letras minúsculas y sin acentos. Encripta y desencripta tus mensajes de forma segura. Pruébalo ahora.">
+
+  <title>Encriptador de texto</title>
+  <link rel="shortcut icon" href="image/logo-icon.svg" type="image/x-icon">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div id="burbuja1"></div>
+  <div id="burbuja2"></div>
+  <div id="maceta"></div>
+  <header>
+    <img src="image/logo.svg" onclick="location.reload();">
+  </header>
+
+  <main>
+
+    <div class="botones">
+      <div class="btn-encriptar">
+        <span type="button" onclick="encriptar()">Encriptar</span>
+      </div>
+      <div class="btn-desencriptar">
+        <span type="button" onclick="desencriptar()">Desencriptar</span>
+      </div>
+      <div class="btn-limpiar">
+        <span type="button" onclick="limpiar()">Limpiar</span>
+      </div>
+    </div>
+
+    <div class="content invisible" id="result">
+      <div class="btn-copiar">
+        <span id="copiar" type="button" onclick="copiar()" disabled>Copiar</span>
+      </div>
+    </div>
+
+
+
+    <div class="encriptar">
+      <textarea name="texto" id="texto" class="texto" cols="30" rows="10"
+        placeholder="Ingresa el texto que deseas encriptar aquí"></textarea>
+    </div>
+
+
+    <div class="condicion">
+      <span class="info-icon"><i class="fas fa-info-circle"></i></span>
+      <p>Solo letras minúsculas y sin acentos.</p>
+    </div>
+
+
+    <div class="encriptado">
+      <img src="image/user.svg" alt="" id="image">
+      <div class="mensaje-encriptado" id="mensaje-encriptado">
+        <h2 id="titulo-mensaje">Ningún mensaje fue encontrado</h2>
+        <p id="msj">Ingresa el texto que desees encriptar o desencriptar.</p>
+      </div>
+      <div class="content-invisible" id="resultado">
+        <textarea name="mensaje" id="mensaje" class="mensaje" cols="30" rows="10" readonly></textarea>
+      </div>
+    </div>
+
+
+  </main>
+
+
+  <footer>
+
+    <p class="copy">&copy; 2023 Rolando Martinez. Todos los derechos reservados.</p>
+
+    <div class="redes">
+      <a href="https://www.behance.net/alexislorenzo" target="_blank"><i class="fab fa-behance"></i></a>
+      <a href="https://www.linkedin.com/in/rolandomartinez10/" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://github.com/rolandomart" target="_blank"><i class="fab fa-github"></i></a>
+    </div>
+
+  </footer>
+
+
+  <script src="script.js"></script>
+
+</body>
+
+</html>

@@ -186,6 +186,7 @@ header img {
   font-weight: bold;
   letter-spacing: 0;
   text-align: center;
+  border: none;
 }
 
 .btn-encriptar:hover {
@@ -208,6 +209,7 @@ header img {
   letter-spacing: 0;
   text-align: center;
   margin-left: 24px;
+  border: none;
 }
 
 .btn-desencriptar:hover {
@@ -230,6 +232,7 @@ header img {
   letter-spacing: 0;
   text-align: center;
   margin-left: 24px;
+  border; none;
 }
 
 .btn-limpiar:hover {

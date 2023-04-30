@@ -112,7 +112,7 @@ function copiar() {
   mensaje.setSelectionRange(0, 99999);
   document.execCommand("copy");
   document.getElementById('copiar').innerHTML = "¡Copiado!";
-  document.getElementById('copiar').style.backgroundColor = "#1b506c"; // Cambiar el color del botón
+  document.getElementById('copiar').style.backgroundColor = "#364248"; // Cambiar el color del botón
   setTimeout(function () {
     document.getElementById('copiar').innerHTML = "Copiar";
     document.getElementById('copiar').style.backgroundColor = ""; // Volver al color original del botón

@@ -160,7 +160,6 @@ header img {
 
 
 /*botones */
-
 .botones {
   display: flex;
   flex-direction: row;
@@ -172,78 +171,70 @@ header img {
   top: 77.9%;
 }
 
-
-.botones span {
+/*boton encriptar */
+.btn-encriptar {
+  background-color: #455a64;
+  width: 216px;
+  height: 64px;
+  position: relative;
+  border-radius: 24px;
+  transition: background-color 0.3s ease-in-out;
+  cursor: pointer;
   color: #ffffff;
   font-family: Poppins;
   font-size: 16px;
   font-weight: bold;
   letter-spacing: 0;
   text-align: center;
-  width: 156px;
-  height: 24px;
-  position: absolute;
-  left: 30px;
-  top: 20px;
-}
-
-
-/*boton encriptar */
-
-.btn-encriptar {
-  background-color: #455a64;
-  width: 216px;
-  height: 64px;
-  position: absolute;
-  left: 0;
-  top: 0;
-  border-radius: 24px;
-  transition: background-color 0.3s ease-in-out;
-  cursor: pointer;
 }
 
 .btn-encriptar:hover {
   background-color: #3c4e57;
 }
 
-
 /*boton desencriptar */
 .btn-desencriptar {
   background-color: #ff725e;
   width: 216px;
   height: 64px;
-  position: absolute;
-  left: 240px;
-  top: 0px;
+  position: relative;
   border-radius: 24px;
   transition: background-color 0.3s ease-in-out;
   cursor: pointer;
+  color: #ffffff;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  text-align: center;
+  margin-left: 24px;
 }
 
 .btn-desencriptar:hover {
   background-color: #ee6a59;
 }
 
-
-
 /*boton limpiar */
 .btn-limpiar {
   background-color: #88989f;
   width: 216px;
   height: 64px;
-  position: absolute;
-  left: 480px;
-  top: 0px;
+  position: relative;
   border-radius: 24px;
   transition: background-color 0.3s ease-in-out;
   cursor: pointer;
+  color: #ffffff;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  text-align: center;
+  margin-left: 24px;
 }
 
 .btn-limpiar:hover {
   background-color: #78868c;
 }
-
-
 
 
 .btn-copiar {

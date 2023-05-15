@@ -49,7 +49,7 @@ Se ha realizado una revisión exhaustiva del código, eliminando redundancias y 
 <br>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="40%" alt="GIF" style="border-radius: 10px;">
+  <img src="https://media3.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="40%" alt="GIF">
 </p>
 
 

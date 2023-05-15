@@ -36,13 +36,13 @@ Además, el programa también brinda la posibilidad de desencriptar el mensaje e
 ## Concluimos la V'2.1
 En esta segunda versión del desafío, se han realizado mejoras significativas para ofrecer una experiencia aún más fluida y eficiente. A continuación, se detallan las principales mejoras y adiciones realizadas:
 
-#### -Mejora en la funcionalidad del código: 
+### -Mejora en la funcionalidad del código: 
 Se han realizado ajustes en el algoritmo de encriptación y desencriptación para optimizar su rendimiento y precisión. Ahora, el proceso de transformación de las vocales sigue el patrón establecido de manera más eficiente.
 
-#### -Corrección de un bug con los botones y copiado: 
+### -Corrección de un bug con los botones y copiado: 
 Se ha solucionado un problema que afectaba el funcionamiento adecuado de los botones de encriptación, desencriptación y copiado. Ahora, dichos botones responden de manera correcta y brindan una experiencia fluida al usuario. Además, se ha implementado la funcionalidad de copiado al portapapeles del navegador, facilitando aún más el uso y compartición del mensaje encriptado.
 
-#### -Optimización del código: 
+### -Optimización del código: 
 Se ha realizado una revisión exhaustiva del código, eliminando redundancias y mejorando la estructura general del proyecto. Esto ha permitido obtener un código más limpio, legible y eficiente, mejorando así su mantenibilidad y escalabilidad.
 
 <br>
@@ -59,10 +59,10 @@ Se ha realizado una revisión exhaustiva del código, eliminando redundancias y 
 ## Para la V'3.1
 Se realizarán las siguientes implementaciones para mejorar y ampliar la funcionalidad del programa:
 
-#### -Diseño Responsivo: 
+### -Diseño Responsivo: 
 El proyecto contará con un diseño adaptable a diferentes dispositivos, como escritorio, tablet y móvil. Esto permitirá una experiencia óptima para los usuarios sin importar el dispositivo que utilicen.
 
-#### -Variante de Color: 
+### -Variante de Color: 
 Se añadirá una opción de selección de tema que permitirá a los usuarios elegir entre un modo oscuro y un modo claro. Esto proporcionará una mayor personalización y adaptabilidad a las preferencias individuales.
 
 

@@ -48,9 +48,10 @@ Se ha realizado una revisión exhaustiva del código, eliminando redundancias y 
 <br>
 <br>
 
-<div style="text-align:center;">
+<p align="center">
   <img src="https://media3.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="50%" alt="GIF">
-</div>
+</p>
+
 
 <br>
 <br>

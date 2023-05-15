@@ -9,3 +9,5 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717&color=181717)]()
 
 Este proyecto representa el inicio de una emocionante serie de desarrollos en el ámbito de programación, realizado en colaboración con [Oracle Next Education](https://www.oracle.com/mx/education/oracle-next-education/) y [Alura Latam](https://www.aluracursos.com/)
+
+![Logo Alura](https://www.google.com/url?sa=i&url=https%3A%2F%2Fportafolio-katherine-dominguez.netlify.app%2F&psig=AOvVaw35CZ-g8Gj5gALVFmOJNivn&ust=1684252806415000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDElYfZ9_4CFQAAAAAdAAAAABAD)

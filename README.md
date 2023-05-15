@@ -44,8 +44,13 @@ Se ha solucionado un problema que afectaba el funcionamiento adecuado de los bot
 
 #### -Optimización del código: 
 Se ha realizado una revisión exhaustiva del código, eliminando redundancias y mejorando la estructura general del proyecto. Esto ha permitido obtener un código más limpio, legible y eficiente, mejorando así su mantenibilidad y escalabilidad.
+
+<br>
 <br>
 
-<img width="50%" src="https://media3.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif">
+<div style="text-align:center;">
+  <img src="https://media3.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="50%" alt="GIF">
+</div>
+
 <br>
 <br>

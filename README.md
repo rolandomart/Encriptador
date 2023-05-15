@@ -17,10 +17,10 @@ Este proyecto representa el inicio de una emocionante serie de desarrollos en el
 
 ## Comportamiento
 El programa brinda la posibilidad de introducir una cadena de texto o mensaje, donde se realizarán reemplazos de las vocales según el siguiente patrón y su inversa:
-```diff
+```javascript
   'a' se reemplaza por 'ai',
   'e' se reemplaza por 'enter',
   'i' se reemplaza por 'imes',
   'o' se reemplaza por 'ober',
   'u' se reemplaza por 'ufat'
-```
+

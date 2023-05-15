@@ -54,7 +54,6 @@ Se ha realizado una revisión exhaustiva del código, eliminando redundancias y 
 
 
 <br>
-<br>
 
 ## Para la V'3.1
 Se realizarán las siguientes implementaciones para mejorar y ampliar la funcionalidad del programa:

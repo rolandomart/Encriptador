@@ -91,4 +91,12 @@ Aquí están los prefijos de ubicación que puedes utilizar:
 Estos prefijos y ubicaciones nos ayudarán a organizar y entender tus contribuciones de manera más efectiva. ¡Esperamos con ansias tus aportes al proyecto!
 
 <br>
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/czoS1CAP2YZBS/giphy.gif" width="40%" alt="GIF">
+</p>
+
+<br>
+<br>
 

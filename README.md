@@ -70,6 +70,6 @@ Se añadirá una opción de selección de tema que permitirá a los usuarios ele
 <br>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="40%" alt="GIF">
+  <img src="https://media.giphy.com/media/4n8I4KcHjV7hob4M9J/giphy.gif" width="40%" alt="GIF">
 </p>
 

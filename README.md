@@ -15,6 +15,9 @@ Este proyecto representa el inicio de una emocionante serie de desarrollos en el
   <img src="https://github.com/rolandomart/Encriptador/blob/main/image/oracle-alura.svg" alt="Logo Alura" style="width:500px; display:block; margin:auto;">
 </p>
 
+<br>
+<br>
+
 ## Comportamiento
 El programa brinda la posibilidad de introducir una cadena de texto o mensaje, donde se realizarán reemplazos de las vocales según el siguiente patrón y su inversa:
 ```javascript

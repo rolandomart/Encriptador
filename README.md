@@ -11,3 +11,4 @@
 Este proyecto representa el inicio de una emocionante serie de desarrollos en el ámbito de programación, realizado en colaboración con [Oracle Next Education](https://www.oracle.com/mx/education/oracle-next-education/) y [Alura Latam](https://www.aluracursos.com/)
 
 
+![Logo Alura](https://github.com/rolandomart/Encriptador/blob/main/image/Oracle1.png)

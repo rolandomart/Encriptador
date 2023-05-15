@@ -15,5 +15,4 @@ Este proyecto representa el inicio de una emocionante serie de desarrollos en el
   <img src="https://github.com/rolandomart/Encriptador/blob/main/image/oracle-alura.svg" alt="Logo Alura" style="width:500px; display:block; margin:auto;">
 </p>
 
-
-
+## Comportamiento

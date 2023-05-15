@@ -72,3 +72,20 @@ Se añadirá una opción de selección de tema que permitirá a los usuarios ele
   <img src="https://media.giphy.com/media/4n8I4KcHjV7hob4M9J/giphy.gif" width="40%" alt="GIF">
 </p>
 
+## Contribuir 
+¿Quieres ser parte del equipo de colaboradores? ¡Serás bienvenido/a! Si deseas contribuir al proyecto, puedes hacerlo utilizando los siguientes prefijos junto con la ubicación y descripción de tus commits:
+
+- Fix: Para optimizaciones o mejoras en fragmentos de código.
+- Bug: Para corregir errores identificados.
+- Add-on: Para agregar nuevas funcionalidades.
+
+Aquí están los prefijos de ubicación que puedes utilizar:
+
+- script: Para archivos JS.
+- styles: Para archivos CSS.
+- index: Para archivos HTML.
+
+Estos prefijos y ubicaciones nos ayudarán a organizar y entender tus contribuciones de manera más efectiva. ¡Esperamos con ansias tus aportes al proyecto!
+
+<br>
+

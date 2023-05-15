@@ -102,14 +102,14 @@ Estos prefijos y ubicaciones nos ayudarán a organizar y entender tus contribuci
 
 ## Autor
 
-Hola, soy Rolando Martinez! 👋
+Hola, soy ¡Rolando Martinez! 👋
 
 ¡Gracias por visitar mi proyecto! Si tienes alguna pregunta o sugerencia, no dudes en contactarme. 
 
 Puedes encontrarme en las siguientes redes:
 
 [![GitHub](https://img.shields.io/badge/GitHub-rolandomart-%23181717?style=flat-square&logo=github)](https://github.com/rolandomart)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rolandomart-%230A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rolandomartinez10/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rolandomart-%230A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rolandomartinez10/) 
 
 
 ¡Espero que te guste mi proyecto! 😊

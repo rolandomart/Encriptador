@@ -72,6 +72,9 @@ Se añadirá una opción de selección de tema que permitirá a los usuarios ele
   <img src="https://media.giphy.com/media/4n8I4KcHjV7hob4M9J/giphy.gif" width="40%" alt="GIF">
 </p>
 
+<br>
+<br>
+
 ## Contribuir 
 ¿Quieres ser parte del equipo de colaboradores? ¡Serás bienvenido/a! Si deseas contribuir al proyecto, puedes hacerlo utilizando los siguientes prefijos junto con la ubicación y descripción de tus commits:
 

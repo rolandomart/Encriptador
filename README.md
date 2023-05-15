@@ -55,3 +55,21 @@ Se ha realizado una revisión exhaustiva del código, eliminando redundancias y 
 
 <br>
 <br>
+
+## Para la V'3.1
+Se realizarán las siguientes implementaciones para mejorar y ampliar la funcionalidad del programa:
+
+#### -Diseño Responsivo: 
+El proyecto contará con un diseño adaptable a diferentes dispositivos, como escritorio, tablet y móvil. Esto permitirá una experiencia óptima para los usuarios sin importar el dispositivo que utilicen.
+
+#### -Variante de Color: 
+Se añadirá una opción de selección de tema que permitirá a los usuarios elegir entre un modo oscuro y un modo claro. Esto proporcionará una mayor personalización y adaptabilidad a las preferencias individuales.
+
+
+<br>
+<br>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="40%" alt="GIF">
+</p>
+

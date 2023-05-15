@@ -34,14 +34,16 @@ Además, el programa también brinda la posibilidad de desencriptar el mensaje e
 <br>
 
 ## Concluimos la V'2.1
-<br>
 En esta segunda versión del desafío, se han realizado mejoras significativas para ofrecer una experiencia aún más fluida y eficiente. A continuación, se detallan las principales mejoras y adiciones realizadas:
 
-Mejora en la funcionalidad del código: Se han realizado ajustes en el algoritmo de encriptación y desencriptación para optimizar su rendimiento y precisión. Ahora, el proceso de transformación de las vocales sigue el patrón establecido de manera más eficiente.
+### Mejora en la funcionalidad del código: 
+Se han realizado ajustes en el algoritmo de encriptación y desencriptación para optimizar su rendimiento y precisión. Ahora, el proceso de transformación de las vocales sigue el patrón establecido de manera más eficiente.
 
-Corrección de un bug con los botones y copiado: Se ha solucionado un problema que afectaba el funcionamiento adecuado de los botones de encriptación, desencriptación y copiado. Ahora, dichos botones responden de manera correcta y brindan una experiencia fluida al usuario. Además, se ha implementado la funcionalidad de copiado al portapapeles del navegador, facilitando aún más el uso y compartición del mensaje encriptado.
+### Corrección de un bug con los botones y copiado: 
+Se ha solucionado un problema que afectaba el funcionamiento adecuado de los botones de encriptación, desencriptación y copiado. Ahora, dichos botones responden de manera correcta y brindan una experiencia fluida al usuario. Además, se ha implementado la funcionalidad de copiado al portapapeles del navegador, facilitando aún más el uso y compartición del mensaje encriptado.
 
-Optimización del código: Se ha realizado una revisión exhaustiva del código, eliminando redundancias y mejorando la estructura general del proyecto. Esto ha permitido obtener un código más limpio, legible y eficiente, mejorando así su mantenibilidad y escalabilidad.
+### Optimización del código: 
+Se ha realizado una revisión exhaustiva del código, eliminando redundancias y mejorando la estructura general del proyecto. Esto ha permitido obtener un código más limpio, legible y eficiente, mejorando así su mantenibilidad y escalabilidad.
 <br>
 
 <img width="50%" src="https://media3.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif">

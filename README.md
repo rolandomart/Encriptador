@@ -108,8 +108,9 @@ Hola, soy ¡Rolando Martinez! 👋
 
 Puedes encontrarme en las siguientes redes:
 
-[![GitHub](https://img.shields.io/badge/GitHub-rolandomart-%23181717?style=flat-square&logo=github)](https://github.com/rolandomart)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rolandomart-%230A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rolandomartinez10/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717&color=181717)]()
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)]()
+
 
 
 ¡Espero que te guste mi proyecto! 😊

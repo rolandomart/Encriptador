@@ -10,6 +10,8 @@
 
 Este proyecto representa el inicio de una emocionante serie de desarrollos en el ámbito de programación, realizado en colaboración con [Oracle Next Education](https://www.oracle.com/mx/education/oracle-next-education/) y [Alura Latam](https://www.aluracursos.com/)
 
+<br>
+<br>
 
 <p align="center">
   <img src="https://github.com/rolandomart/Encriptador/blob/main/image/oracle-alura.svg" alt="Logo Alura" style="width:500px; display:block; margin:auto;">
@@ -28,7 +30,8 @@ El programa brinda la posibilidad de introducir una cadena de texto o mensaje, d
   'u' se reemplaza por 'ufat'
 ```
 Además, el programa también brinda la posibilidad de desencriptar el mensaje encriptado y copiarlo al portapapeles. Con esta funcionalidad, puedes revertir el proceso de encriptación y obtener el mensaje original de manera sencilla y rápida. Esto te permite compartir el mensaje en su forma original o utilizarlo en cualquier otra aplicación o contexto que necesites.
-
-<img width="100%" src="https://media3.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif">
+<br>
+<br>
+<img width="50%" src="https://media3.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif">
 <br>
 <br>

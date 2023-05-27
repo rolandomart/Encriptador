@@ -5,7 +5,7 @@ const placeholderText = textarea.getAttribute('placeholder');
 for (let i = 0; i < placeholderText.length; i++) {
   textarea.setAttribute('placeholder', placeholderText.substring(0, i + 1));
   setTimeout(() => {
-    textarea.setAttribute('placeholder', placeholderText.substring(0, i));
+    textarea.setAttribute('placeholder', placeholderText.substring(0, i + 1));
   }, i * 90);
 }
 

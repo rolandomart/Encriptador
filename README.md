@@ -55,8 +55,8 @@ Se ha realizado una revisión exhaustiva del código, eliminando redundancias y 
 
 <br>
 
-## Para la V'3.1
-Se realizarán las siguientes implementaciones para mejorar y ampliar la funcionalidad del programa:
+## Concluimos la V'3.1
+Se realizarón las siguientes implementaciones para mejorar y ampliar la funcionalidad del programa:
 
 ### -Diseño Responsivo: 
 El proyecto contará con un diseño adaptable a diferentes dispositivos, como escritorio, tablet y móvil. Esto permitirá una experiencia óptima para los usuarios sin importar el dispositivo que utilicen.

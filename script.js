@@ -2,7 +2,8 @@
 const textarea = document.getElementById('texto');
 const placeholderText = textarea.getAttribute('placeholder');
 
-for (let i = 0; i <= placeholderText.length; i++) {
+for (let i = 0; i < placeholderText.length; i++) {
+  textarea.setAttribute('placeholder', placeholderText.substring(0, i + 1));
   setTimeout(() => {
     textarea.setAttribute('placeholder', placeholderText.substring(0, i));
   }, i * 90);
@@ -11,32 +12,15 @@ for (let i = 0; i <= placeholderText.length; i++) {
 // Cambiar tema de fondo
 const themeToggle = document.getElementById("theme-toggle");
 
-themeToggle.addEventListener("change", function () {
+themeToggle.addEventListener("change", toggleDarkMode);
+
+function toggleDarkMode() {
   if (this.checked) {
-    enableDarkMode();
+    document.body.classList.add("dark-mode");
   } else {
-    disableDarkMode();
+    document.body.classList.remove("dark-mode");
   }
-});
-
-function enableDarkMode() {
-  document.body.classList.add("dark-mode");
 }
-
-function disableDarkMode() {
-  document.body.classList.remove("dark-mode");
-}
-
-
-// Función para convertir el texto a minúsculas en tiempo real
-function convertirAMinusculas() {
-  const texto = document.getElementById('texto');
-  texto.value = texto.value.toLowerCase();
-}
-
-// Agregar el evento para convertir a minúsculas en tiempo real
-document.getElementById('texto').addEventListener('input', convertirAMinusculas);
-
 
 
 // Función para encriptar texto
@@ -49,11 +33,21 @@ function encriptar() {
   }
 
   const mensaje = texto.toLowerCase()
-    .replace(/e/g, "enter")
-    .replace(/i/g, "imes")
-    .replace(/a/g, "ai")
-    .replace(/o/g, "ober")
-    .replace(/u/g, "ufat");
+    .replace(/[aáeéiioóuú]/g, function (c) {
+      switch (c) {
+        case 'a': return 'ai';
+        case 'á': return 'ai';
+        case 'e': return 'enter';
+        case 'é': return 'enter';
+        case 'i': return 'imes';
+        case 'í': return 'imes';
+        case 'o': return 'ober';
+        case 'ó': return 'ober';
+        case 'u': return 'ufat';
+        case 'ú': return 'ufat';
+        default: return c;
+      }
+    });
 
   actualizarMensaje(mensaje, "Texto encriptado", "Texto encriptado correctamente.");
 }
@@ -67,11 +61,21 @@ function desencriptar() {
     return;
   }
 
-  const texto = mensaje.replace(/enter/g, "e")
-    .replace(/imes/g, "i")
-    .replace(/ai/g, "a")
-    .replace(/ober/g, "o")
-    .replace(/ufat/g, "u");
+  const texto = mensaje.replace(/ai|ái|enter|énter|imes|ímés|ober|óbér|ufat|úfát/g, function (c) {
+    switch (c) {
+      case 'ai': return 'a';
+      case 'ái': return 'á';
+      case 'enter': return 'e';
+      case 'énter': return 'é';
+      case 'imes': return 'i';
+      case 'ímés': return 'í';
+      case 'ober': return 'o';
+      case 'óbér': return 'ó';
+      case 'ufat': return 'u';
+      case 'úfát': return 'ú';
+      default: return c;
+    }
+  });
 
   actualizarMensaje(texto, "Texto desencriptado", "Texto desencriptado correctamente.");
 }
@@ -86,7 +90,6 @@ function actualizarMensaje(texto, titulo, msj) {
   document.getElementById('image').classList.add('invisible');
   document.getElementById('result').classList.remove('invisible');
   document.getElementById('copiarBtn').disabled = false;
-  document.getElementById('texto').addEventListener('input', validarTexto);
 }
 
 // Función para deshabilitar botones
